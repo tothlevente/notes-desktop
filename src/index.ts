@@ -13,6 +13,7 @@ const createWindow = (): void => {
     minHeight: 600,
     width: 800,
     minWidth: 800,
+    titleBarStyle: "hidden",
     webPreferences: {
       preload: MAIN_WINDOW_PRELOAD_WEBPACK_ENTRY,
     },
