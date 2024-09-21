@@ -12,7 +12,6 @@ In the project directory, you can run:
 - `npm run make`
 - `npm run publish`
 - `npm run lint`
-- `npm run dist`
 
 ## Used external sources:
 
