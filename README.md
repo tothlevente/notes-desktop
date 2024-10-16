@@ -1,4 +1,4 @@
-# Notes desktop :bookmark_tabs:
+# Notes desktop :page_with_curl:
 
 In this desktop application you can create, edit and delete encrypted notes on your computer.
 
